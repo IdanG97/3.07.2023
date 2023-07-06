@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Ecom Fullstack Course</title>
+</head>
+
+<body style="background-color: cyan;">
+  <h3><u>Idan Gueta</u></h3>
+  <br/>
+  <br/>
+ <p>Idan <b>Gueta</b> age <b>25</b> born <b>and</b> raised <b>in</b> ramat <b>gan</b>. I <b>went</b> to <b>hadash</b> high <b>school</b>, and <b>majored</b> in <b>electrical</b> engineering. <b>In</b> the <b>idf</b> i <b>served</b> 4 <b>years</b> as <b>a</b> <del>tank</del> <b>electrician</b>.</p>
+ <a href="https://www.youtube.com/watch?v=pYJ2i9vzvQ4"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe9zpXWE3uyx4XmDPcZqg__JCrr_zyJ5jEKA&usqp=CAU" alt="my favorit guitar player" width="100" height="100"> </a>
+<br/>
+ <br/>
+ <p>Today <b>I</b> work <b>at</b> Gadir <b>Engineering</b>, an <b>energy</b> saving <b>company</b>. But <b>in</b> my <b>spare</b> time <b>i</b> play <b>the</b> guitar, <b>mostly</b> write <b>solos</b> but <b>i</b> also <b>dabble</b> in <b>jazz</b> <del>music</del> <b>sometimes</b>.</p>
+ <a href="https://www.youtube.com/watch?v=pYJ2i9vzvQ4"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe9zpXWE3uyx4XmDPcZqg__JCrr_zyJ5jEKA&usqp=CAU" alt="my favorit guitar player" width="100" height="100"> </a>
+<br/>
+ <br/>
+ <footer>
+    <video width="370" height="250" controls>
+        <source src="https://media.istockphoto.com/id/1175207653/video/forest-fire-in-the-island-of-borneo-kalimantan-in-indonesia.mp4?s=mp4-640x640-is&k=20&c=KN1nHnYrdlHeUhrCQld9YdQAznkD2vncpLAuOJ4QdWM=" type="video/mp4">    
+    </video>
+  </footer>
+  <hr/>
+ <hr/>
+
+</body>
+
+</html>
